@@ -114,48 +114,44 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <h5>Front-end:</h5>
 
 <div style="display: inline_block">
-  
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![jQuery](https://skillicons.dev/icons?i=jquery)
-![React](https://skillicons.dev/icons?i=react)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
 </div>
 
 <h5>Back-end:</h5>
 
 <div style="display: inline_block">
-
 ![Java](https://skillicons.dev/icons?i=java)
-![MYSQL](https://skillicons.dev/icons?i=mysql)
-![Laravel](https://skillicons.dev/icons?i=laravel)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![NODEJS](https://skillicons.dev/icons?i=nodejs)
+![MYSQL](https://skillicons.dev/icons?i=mysql)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 <br> 
 </div>
 
 <h4>Tools:</h4>
 
 <div style="display: inline_block">
-  
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
-![Figma](https://skillicons.dev/icons?i=figma)
+![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
+![Sublime](https://skillicons.dev/icons?i=sublime)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![Eclipse](https://skills.thijs.gg/icons?i=eclipse)
+![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
 ![After Effects](https://skillicons.dev/icons?i=ae)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
-![Sublime](https://skillicons.dev/icons?i=sublime)
 ![Blender](https://skillicons.dev/icons?i=blender)
-
   <br>
 </div>
 
