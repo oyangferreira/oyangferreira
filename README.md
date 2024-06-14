@@ -23,7 +23,7 @@
 </div>
 
 <div align="center"> 
-<a href="https://www.instagram.com/yang.sfm/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.instagram.com/oyangferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/yangsarmentoferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
@@ -126,7 +126,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 <div style="display: inline_block">
 
-[![Java](https://skills.thijs.gg/icons?i=java)](https://pt.wikipedia.org/wiki/java)
+[![Java](skillicons.dev/icons?i=java)](https://pt.wikipedia.org/wiki/java)
 [![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
 [![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
 [![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
