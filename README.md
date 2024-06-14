@@ -115,7 +115,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 <div style="display: inline_block">
   
-[![HTML5](https://skillicons.dev/icons?i=html)]()
+![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![jQuery](https://skillicons.dev/icons?i=jquery)
