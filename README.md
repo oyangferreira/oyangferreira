@@ -127,10 +127,10 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <div style="display: inline_block">
 
 ![Java](https://skillicons.dev/icons?i=java)
-[![MYSQL](https://skills.thijs.gg/icons?i=mysql)](https://pt.wikipedia.org/wiki/mysql)
-[![C++](https://skills.thijs.gg/icons?i=cpp)](https://pt.wikipedia.org/wiki/cpp)
-[![NODEJS](https://skills.thijs.gg/icons?i=nodejs)](https://pt.wikipedia.org/wiki/nodejs)
-[![C#](https://skills.thijs.gg/icons?i=c#)](https://pt.wikipedia.org/wiki/c#)
+![MYSQL](https://skillicons.dev/icons?i=mysql)
+![C++](https://skillicons.dev/icons?i=cpp)
+![NODEJS](https://skillicons.dev/icons?i=nodejs)
+![C#](https://skillicons.dev/icons?i=c#)
 <br> 
 </div>
 
