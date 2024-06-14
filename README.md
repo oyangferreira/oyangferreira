@@ -115,11 +115,11 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 <div style="display: inline_block">
   
-[![HTML5](https://skills.thijs.gg/icons?i=html)]()
-[![CSS3](https://skills.thijs.gg/icons?i=css)]()
-[![JavaScript](https://skills.thijs.gg/icons?i=js)]()
-[![PHP](https://skills.thijs.gg/icons?i=php)]()
-[![Bootstrap](https://skills.thijs.gg/icons?i=bootstrap)]()
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![PHP](https://skillicons.dev/icons?i=php)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 </div>
 
 <h5>Back-end:</h5>
