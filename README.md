@@ -114,7 +114,8 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <h5>Front-end:</h5>
 
 <div style="display: inline_block">
-![HTML5](https://skillicons.dev/icons?i=html)
+  
+[![HTML5](https://skillicons.dev/icons?i=html)]()
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![jQuery](https://skillicons.dev/icons?i=jquery)
@@ -127,6 +128,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <h5>Back-end:</h5>
 
 <div style="display: inline_block">
+  
 ![Java](https://skillicons.dev/icons?i=java)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
@@ -139,6 +141,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <h4>Tools:</h4>
 
 <div style="display: inline_block">
+  
 ![Vscode](https://skillicons.dev/icons?i=vscode)
 ![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
 ![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
@@ -152,7 +155,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
 ![After Effects](https://skillicons.dev/icons?i=ae)
 ![Blender](https://skillicons.dev/icons?i=blender)
-  <br>
+<br>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
