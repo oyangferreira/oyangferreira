@@ -118,8 +118,11 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![React](https://skillicons.dev/icons?i=react)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
 </div>
 
 <h5>Back-end:</h5>
@@ -128,9 +131,10 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 ![Java](https://skillicons.dev/icons?i=java)
 ![MYSQL](https://skillicons.dev/icons?i=mysql)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 ![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
 ![NODEJS](https://skillicons.dev/icons?i=nodejs)
-![C#](https://skillicons.dev/icons?i=c#)
 <br> 
 </div>
 
@@ -138,12 +142,20 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 <div style="display: inline_block">
   
-[![Vscode](https://skills.thijs.gg/icons?i=vscode)]()
-[![Figma](https://skills.thijs.gg/icons?i=figma)]()
-[![Git](https://skills.thijs.gg/icons?i=git)]()
-[![GitHub](https://skills.thijs.gg/icons?i=github)]()
-[![Eclipse](https://skills.thijs.gg/icons?i=eclipse)]()
-[![Photoshop](https://skills.thijs.gg/icons?i=photoshop)]()
+![Vscode](https://skillicons.dev/icons?i=vscode)
+![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Eclipse](https://skills.thijs.gg/icons?i=eclipse)
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![After Effects](https://skillicons.dev/icons?i=ae)
+![Android Studio](https://skillicons.dev/icons?i=androidstudio)
+![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
+![Sublime](https://skillicons.dev/icons?i=sublime)
+![Blender](https://skillicons.dev/icons?i=blender)
+
   <br>
 </div>
 
