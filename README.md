@@ -4,12 +4,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
-
-<div align="center"> 
-<a href="https://www.instagram.com/oyangferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/yangsarmentoferreira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
- 
  ## 🎓Education:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
