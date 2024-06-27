@@ -7,8 +7,6 @@
 </div>
 
 
-<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=oyangferreira&bg_color=000000&color=ffffff&line=ff0000&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
@@ -16,11 +14,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 
-<div align="center">
-<img width="60px" src="https://media3.giphy.com/media/AiGfLPOCNEPDjh2YRP/200w.webp?cid=ecf05e47ynooil1i5w5abqqegcarxpr7rkp44nw12mx8ufpl&ep=v1_stickers_search&rid=200w.webp&ct=s">
-<img width="60px" src="https://media2.giphy.com/media/3roK5QBhAmZjQRfN94/200w.webp?cid=ecf05e47ynooil1i5w5abqqegcarxpr7rkp44nw12mx8ufpl&ep=v1_stickers_search&rid=200w.webp&ct=s">
-<img width="60px" src="https://media2.giphy.com/media/JGGpR8EDwzw1TmKu24/200w.webp?cid=ecf05e47ynooil1i5w5abqqegcarxpr7rkp44nw12mx8ufpl&ep=v1_stickers_search&rid=200w.webp&ct=s">
-</div>
 
 <div align="center"> 
 <a href="https://www.instagram.com/oyangferreira/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
