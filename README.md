@@ -163,7 +163,6 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
     title="repositório de troféus"
   >
     <img
-      width="700"
       src="https://github-profile-trophy.vercel.app/?username=oyangferreira&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
