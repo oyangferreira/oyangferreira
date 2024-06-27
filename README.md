@@ -1,11 +1,4 @@
-<div align="center">
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
-</div>
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
-</div>
-
- ## 🎓Education:
+## 🎓Education:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
 
@@ -136,4 +129,10 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+## :memo:GitHub Insights:
+<div align="center">
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=000000" />
+</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
+</div>
