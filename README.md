@@ -2,7 +2,8 @@
 <table>
   <tr>
     <td>
-      <img
+      <img 
+        width="30%"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
@@ -10,6 +11,7 @@
     </td>
     <td>
       <img
+        width="30%"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
@@ -18,6 +20,7 @@
     <td>
       <br />
       <img
+        width="30%"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=oyangferreira&theme=dark&hide_border=false"
         alt="Github Stats"
@@ -165,7 +168,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
     title="repositório de troféus"
   >
     <img
-      width="800"
+      width="700"
       src="https://github-profile-trophy.vercel.app/?username=oyangferreira&column=8&theme=darkhub&no-frame=true&no-bg=true"
     />
   </a>
