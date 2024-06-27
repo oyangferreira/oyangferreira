@@ -4,7 +4,7 @@
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=pie)](https://github.com/anuraghazra/github-readme-stats/>
 </div>
 
 ## 🎓Education:
