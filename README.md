@@ -153,7 +153,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 ![After Effects](https://skillicons.dev/icons?i=ae)
 ![Blender](https://skillicons.dev/icons?i=blender)
 <br>
-</div> -->
+</div>
 
 ## 🏆 GitHub Profile Trophy
 
