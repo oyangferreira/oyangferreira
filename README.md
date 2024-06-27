@@ -1,3 +1,42 @@
+## :memo:GitHub Analytics
+<table width="99%">
+  <tr>
+    <td>
+      <img 
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=oyangferreira&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=oyangferreira&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</p>
+
 ## 🎓Education:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
@@ -128,44 +167,3 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 ![Blender](https://skillicons.dev/icons?i=blender)
 <br>
 </div>
-
-## :memo:GitHub Analytics
-<table width="99%">
-  <tr>
-    <td>
-      <img 
-        align="center"
-        src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=oyangferreira&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=oyangferreira&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
-
