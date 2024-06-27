@@ -3,7 +3,7 @@
   <tr>
     <td>
       <img 
-        width="30%"
+        width="90%"
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
@@ -11,7 +11,7 @@
     </td>
     <td>
       <img
-        width="30%"
+        width="90%"
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
@@ -20,7 +20,7 @@
     <td>
       <br />
       <img
-        width="30%"
+        width="90%"
         align="left"
         src="https://github-readme-streak-stats.herokuapp.com/?user=oyangferreira&theme=dark&hide_border=false"
         alt="Github Stats"
