@@ -4,7 +4,7 @@
     <td>
       <img 
         width="97%"
-        margin= "0"
+        margin= "auto"
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
