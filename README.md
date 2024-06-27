@@ -1,18 +1,10 @@
-<!--## :memo:GitHub Insights:
+## :memo:GitHub Insights:
 <div align="center">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&hide_border=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=000000" />
 </div>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
-</div> !-->
-
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
-
-### Olá, meu nome é Yang!
-
-<img src="https://img.shields.io/static/v1?label=Overview&message=SEUNOME&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>Trabalhando na {nome da empresa}<br/> Eu sou desenvolvedor {sua stack}</p>
+</div>
 
 ## 🎓Education:
   
