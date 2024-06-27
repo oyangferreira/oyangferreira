@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Yang!;I'm+19+years+old!;I'm+From+Brazil!;I'm+studying+Systems+Analysis+and+Development!;Welcome!)](https://git.io/typing-svg)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=000000" alt="Status Yang" /> 
  
