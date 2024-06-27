@@ -1,5 +1,5 @@
 ## :memo:GitHub Analytics
-<table width="98%">
+<table width="99%">
   <tr>
     <td>
       <img 
