@@ -2,7 +2,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img
     style="background-color: transparent; height: 200px;"
-    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&color_icons=green&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&bg_icons=green&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent"
     alt="Github Stats"
   />
   <img
