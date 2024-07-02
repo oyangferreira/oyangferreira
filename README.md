@@ -1,5 +1,5 @@
 <p align="center">
-  <strong style="font-size: 24;">FullStack Developer • Mobile Developer • Instructor</strong>
+  <strong style="font-size:0.5em;">FullStack Developer • Mobile Developer • Instructor</strong>
 </p>
 <p align= "center";>
   <img
