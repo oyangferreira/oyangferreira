@@ -12,22 +12,29 @@
     alt="Github Stats"/>
 </p>
 
+## 🎯Skills:
+
+<div style="display: inline_block">
+  
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![jQuery](https://skillicons.dev/icons?i=jquery)
+![PHP](https://skillicons.dev/icons?i=php)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
+![Wordpress](https://skillicons.dev/icons?i=wordpress)
+![Java](https://skillicons.dev/icons?i=java)
+![C++](https://skillicons.dev/icons?i=cpp)
+![C#](https://skillicons.dev/icons?i=cs)
+![NODEJS](https://skillicons.dev/icons?i=nodejs)
+![MYSQL](https://skillicons.dev/icons?i=mysql)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![GitHub](https://skillicons.dev/icons?i=github)
+</div>
 
 
 
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=oyangferreira&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
 ## 🎓Education:
   
@@ -113,30 +120,13 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 
 ## 🎯Skills:
 
-<h5>Front-end:</h5>
-
-<div style="display: inline_block">
-  
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![jQuery](https://skillicons.dev/icons?i=jquery)
-![PHP](https://skillicons.dev/icons?i=php)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![React](https://skillicons.dev/icons?i=react)
-![Wordpress](https://skillicons.dev/icons?i=wordpress)
-</div>
 
 <h5>Back-end:</h5>
 
 <div style="display: inline_block">
   
-![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
-![C#](https://skillicons.dev/icons?i=cs)
-![NODEJS](https://skillicons.dev/icons?i=nodejs)
-![MYSQL](https://skillicons.dev/icons?i=mysql)
-![Laravel](https://skillicons.dev/icons?i=laravel)
+
+
 <br> 
 </div>
 
@@ -151,7 +141,7 @@ Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dyn
 ![Android Studio](https://skillicons.dev/icons?i=androidstudio)
 ![Eclipse](https://skillicons.dev/icons?i=eclipse)
 ![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
+
 ![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
