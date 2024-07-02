@@ -1,5 +1,5 @@
 ## :memo:GitHub Analytics
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 99%; max-width: 800px; margin: auto;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 10px; width: 100%; max-width: 1000px; margin: auto;">
   <img
     style="background-color: transparent; height: 200px;"
     src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent&icon_color=800080&title_color=00ff99"
@@ -11,6 +11,7 @@
     alt="Github Stats"
   />
 </div>
+
 
 
 
