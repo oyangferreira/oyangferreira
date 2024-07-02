@@ -1,4 +1,6 @@
-<p align= "center" style="font-size: 20px;> FullStack Developer • Mobile Developer • Instructor</p>
+<p align="center" style="font-size: 24px;">
+  FullStack Developer • Mobile Developer • Instructor
+</p>
 <p align= "center";>
   <img
     style="background-color: transparent; height: 190px;"
