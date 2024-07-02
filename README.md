@@ -1,3 +1,4 @@
+FullStack Developer • Mobile Developer • Instructor
 ## :memo:GitHub Analytics
 <p align= "center";>
   <img
