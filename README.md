@@ -7,7 +7,7 @@
   />
   <img
     style="background-color: transparent; height: 200px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=false&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=false&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000"
     alt="Github Stats"
   />
 </div>
