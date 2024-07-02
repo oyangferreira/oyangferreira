@@ -1,28 +1,15 @@
 ## :memo:GitHub Analytics
-<table>
-  <tr>
-    <td>
+<p align="center">
       <img 
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
         alt="Github Stats"
       />
-    </td>
-    <td>
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github Stats"
       />
-    </td>
-    <td>
-      <br />
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=oyangferreira&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+</p>
 
 ## 🏆 GitHub Profile Trophy
 
