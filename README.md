@@ -19,7 +19,6 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![jQuery](https://skillicons.dev/icons?i=jquery)
 ![PHP](https://skillicons.dev/icons?i=php)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![React](https://skillicons.dev/icons?i=react)
@@ -32,8 +31,6 @@
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![Photoshop](https://skillicons.dev/icons?i=photoshop)
-![After Effects](https://skillicons.dev/icons?i=ae)
-![Blender](https://skillicons.dev/icons?i=blender)
 ![GitHub](https://skillicons.dev/icons?i=github)
 </div>
 
