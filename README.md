@@ -2,12 +2,12 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
   <img
     style="background-color: transparent; height: 200px;"
-    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&hide_border=false&include_all_commits=true"
     alt="Github Stats"
   />
   <img
     style="background-color: transparent; height: 200px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     alt="Github Stats"
   />
 </div>
