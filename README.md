@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 32px;">
   FullStack Developer • Mobile Developer • Instructor
 </p>
 <p align= "center";>
