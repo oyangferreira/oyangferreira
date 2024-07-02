@@ -1,5 +1,5 @@
+<p align= "center";> FullStack Developer • Mobile Developer • Instructor</p>
 <p align= "center";>
-  <p>FullStack Developer • Mobile Developer • Instructor</p>
   <img
     style="background-color: transparent; height: 190px;"
     src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent&icon_color=800080&title_color=00ff99"
