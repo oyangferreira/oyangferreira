@@ -1,6 +1,6 @@
-<p align="center">
-  <h3>FullStack Developer • Mobile Developer • Instructor</h3>
-</p>
+<h3 align="center">
+  >FullStack Developer • Mobile Developer • Instructor
+</h3>
 <p align= "center";>
   <img
     style="background-color: transparent; height: 190px;"
