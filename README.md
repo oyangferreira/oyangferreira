@@ -30,6 +30,10 @@
 ![NODEJS](https://skillicons.dev/icons?i=nodejs)
 ![MYSQL](https://skillicons.dev/icons?i=mysql)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
+![Figma](https://skillicons.dev/icons?i=figma)
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![After Effects](https://skillicons.dev/icons?i=ae)
+![Blender](https://skillicons.dev/icons?i=blender)
 ![GitHub](https://skillicons.dev/icons?i=github)
 </div>
 
@@ -117,35 +121,3 @@ February 2023 - March 2023 \
 Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dynamics`, `Projects`\
 <br>
 <br>
-
-## 🎯Skills:
-
-
-<h5>Back-end:</h5>
-
-<div style="display: inline_block">
-  
-
-
-<br> 
-</div>
-
-<h4>Tools:</h4>
-
-<div style="display: inline_block">
-  
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![VisualStudio](https://skillicons.dev/icons?i=visualstudio)
-![PHPStorm](https://skillicons.dev/icons?i=phpstorm)
-![Sublime](https://skillicons.dev/icons?i=sublime)
-![Android Studio](https://skillicons.dev/icons?i=androidstudio)
-![Eclipse](https://skillicons.dev/icons?i=eclipse)
-![Git](https://skillicons.dev/icons?i=git)
-
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
-![After Effects](https://skillicons.dev/icons?i=ae)
-![Blender](https://skillicons.dev/icons?i=blender)
-<br>
-</div>
