@@ -1,5 +1,5 @@
-FullStack Developer • Mobile Developer • Instructor
-## :memo:GitHub Analytics
+
+# FullStack Developer • Mobile Developer • Instructor
 <p align= "center";>
   <img
     style="background-color: transparent; height: 190px;"
