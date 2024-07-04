@@ -4,10 +4,10 @@
 <p align= "center";>
   <img
     style="background-color: transparent; height: 180px;"
-    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent&icon_color=800080&title_color=89ffbe"
+    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent&icon_color=800080&title_color=89ffbe"/>
   <img
     style="background-color: transparent; height: 180px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=true&border_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&icon_color=800080&title_color=89ffbe"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=true&border_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&icon_color=800080&title_color=89ffbe"/>
 </p>
 
 ## 🎯Skills:
