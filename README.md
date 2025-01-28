@@ -94,18 +94,18 @@ Technologies and Languages: `React`, `React Native`, `TypeScript`, `Git e Github
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
 
 **Professor de Informática** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Teacher \
+[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) \
 Junho 2022 - Janeiro 2023 \
-Habilidades: `Gerenciamento de projetos`, `Aprendizagem Social e Emocional`, `Pacote Office`, `Dinâmica em Grupo`\
+Habilidades: `Gerenciamento de projetos`, `Aprendizagem Social e Emocional`, `Pacote Office`, `Dinâmica em Grupo` \
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
 
 **Professor de Manutenção de Computadores** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Teacher \
+[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) \
 Junho 2022 - Janeiro 2023 \
-Habilidades: `Hardware`, `Manutenção de Computadores`, `Gerenciamento de Projetos`, `Pacote Office`, `Dinâmica em Grupo`, `Aprendizagem Social e Emocional`\
+Habilidades: `Hardware`, `Manutenção de Computadores`, `Gerenciamento de Projetos`, `Pacote Office`, `Dinâmica em Grupo`, `Aprendizagem Social e Emocional` \
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"/>](https://www.ensinamais.com.br)
@@ -113,7 +113,7 @@ Habilidades: `Hardware`, `Manutenção de Computadores`, `Gerenciamento de Proje
 **Professor de Robótica** \
 [**Ensina Mais Turma da Mônica**](https://www.ensinamais.com.br/) \
 Fevereiro 2023 - Março 2023 \
-Habilidades: `Robótica`, `Aprendizagem Social e Emocional`, `Comunicação`, `Dinâmica em Grupo`, `Projetos`\
+Habilidades: `Robótica`, `Aprendizagem Social e Emocional`, `Comunicação`, `Dinâmica em Grupo`, `Projetos` \
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
@@ -121,6 +121,6 @@ Habilidades: `Robótica`, `Aprendizagem Social e Emocional`, `Comunicação`, `D
 **Analista Desenvolvedor Junior** \
 [**Cogny**](https://www.ensinamais.com.br/)\
 Novembro 2024 - Janeiro 2025 \
-Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce`\
+Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
 <br>
 <br>
