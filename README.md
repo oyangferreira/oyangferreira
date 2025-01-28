@@ -1,5 +1,5 @@
 <h3 align="center">
-  Front-end Developer • Mobile Developer • Instructor
+  Desenvolvedor Front-end • Desenvolvedor Mobile • Professor
 </h3>
 <p align= "center";>
   <img
