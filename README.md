@@ -1,5 +1,5 @@
 <h3 align="center">
-  FullStack Developer • Mobile Developer • Instructor
+  Front-end Developer • Mobile Developer • Instructor
 </h3>
 <p align= "center";>
   <img
