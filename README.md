@@ -10,19 +10,19 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=true&border_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&icon_color=800080&title_color=89ffbe"/>
 </p>
 
-## 🎯Skills:
+## 🎯Habilidades:
 
 <div style="display: inline_block">
   
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![PHP](https://skillicons.dev/icons?i=php)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![React](https://skillicons.dev/icons?i=react)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
 ![Java](https://skillicons.dev/icons?i=java)
-![C++](https://skillicons.dev/icons?i=cpp)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![NODEJS](https://skillicons.dev/icons?i=nodejs)
 ![MYSQL](https://skillicons.dev/icons?i=mysql)
@@ -35,56 +35,56 @@
 
 
 
-## 🎓Education:
+## 🎓Educação:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
 
-**Systems Analysis and Development** \
-[**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) • Student \
-February 2022 - December 2024 \
-Technologies and Languages: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
+**Analista e Desenvolvedor de Sistemas** \
+[**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
+Fevereiro 2022 - Dezembro 2024 \
+Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
-**Systems Development Technician** \
-[**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) • Student \
-January 2020 - July 2021 \
-Technologies and Languages: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
+**Técnico de Desenvolvimento de Sistemas** \
+[**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) \
+Janeiro 2020 - Julho 2021 \
+Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](http://etecperuibe.com.br/)
 
-**Digital Game Programming Technician** \
-[**ETEC DE PERUÍBE**](http://etec.com.br/) • Student \
-January 2019 - December 2021 \
-Technologies and Languages: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Frameworks`, `Unity`, `Unreal`\
+**Técnico de Programação de Jogos Digitais** \
+[**ETEC DE PERUÍBE**](http://etec.com.br/) \
+Janeiro 2019 - Dezembro 2021 \
+Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Frameworks`, `Unity`, `Unreal`\
 <br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://cursos.alura.com.br/)
 
-**Alura Course** \
-[**ALURA**](https://cursos.alura.com.br/) • Student \
-Technologies and Languages: `Python`, `Scratch`, `Javascript`, `HTML`, `CSS`, `Projeto UX`, `Canva`, `Power BI`, `Excel`\
+**Curso Alura** \
+[**ALURA**](https://cursos.alura.com.br/) \
+Tecnologias e Linguagens: `Python`, `Javascript`, `HTML`, `CSS`, `Projeto UX`, `Canva`, `Power BI`, `Excel`\
 <br>
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/R.d89b643c17f601608cb8e840a032655a?rik=9%2fQ%2b5F9ULmAlEg&pid=ImgRaw&r=0"/>](https://cursos.onebitcode.com/)
 
-**OneBitCode Course** \
-[**ONEBITCODE**](https://cursos.onebitcode.com/) • Student \
-Technologies and Languages: `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
+**Curso OneBitCode** \
+[**ONEBITCODE**](https://cursos.onebitcode.com/) \
+Tecnologias e Linguagens: `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
 <br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?rs=1&pid=ImgDetMain"/>](udemy.com/)
 
-**React Course** \
-[**UDEMY**](udemy.com/) • Student \
-Technologies and Languages: `React`, `React Native`, `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
+**Curso de React** \
+[**UDEMY**](udemy.com/) \
+Tecnologias e Linguagens: `React`, `React Native`, `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
 <br>
 <br>
 
