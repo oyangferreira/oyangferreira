@@ -20,7 +20,6 @@
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 ![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 ![Wordpress](https://skillicons.dev/icons?i=wordpress)
