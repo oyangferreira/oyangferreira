@@ -1,5 +1,5 @@
 <h3 align="center">
-  Junior Systems Analys • Front-end Developer • Mobile Developer
+  Junior Systems Analyst • Front-end Developer • Mobile Developer
 </h3>
 <p align= "center";>
   <img
@@ -119,5 +119,13 @@ Skills: `Robotics`, `Social-Emotional Learning`, `Communication`, `Group Dynamic
 [**Cogny**](https://www.cogny.co/) \
 November 2024 - January 2025 \
 Skills: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
+<br>
+
+[<img align="left" height="120px" width="120px" alt="" src="https://blog.yup.chat/wp-content/uploads/2022/07/LogoYupChat.png">](https://yup.chat/)
+
+**Junior Systems Analyst** \
+[**Yup Chat**](https://yup.chat/) \
+May 2025 - Present \
+Skills: `Linux`, `Computer Networks`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
 <br>
 <br>
