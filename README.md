@@ -121,7 +121,7 @@ November 2024 - January 2025 \
 Skills: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
 <br>
 
-[<img align="left" height="120px" width="120px" alt="" src="https://blog.yup.chat/wp-content/uploads/2022/07/LogoYupChat.png">](https://yup.chat/)
+[<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
 
 **Junior Systems Analyst** \
 [**Yup Chat**](https://yup.chat/) \
