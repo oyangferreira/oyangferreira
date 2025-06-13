@@ -70,6 +70,7 @@ Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Unity`,
 Maio de 2025 - Atual \
 Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
 <br>
+<br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
 
@@ -77,6 +78,7 @@ Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kann
 [**Cogny**](https://www.cogny.co/) \
 Novembro de 2024 - Janeiro de 2025 \
 Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
+<br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
