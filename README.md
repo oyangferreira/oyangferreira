@@ -28,7 +28,6 @@
 ![Unity](https://skillicons.dev/icons?i=unity)
 ![Figma](https://skillicons.dev/icons?i=figma)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
 ![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
 ![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 </div>
@@ -42,7 +41,8 @@
 Fevereiro de 2022 - Julho de 2025 \
 Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
 <br>
-  
+<br>  
+
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
 **Técnico em Desenvolvimento de Sistemas** \
