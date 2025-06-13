@@ -1,5 +1,5 @@
 <h3 align="center">
-  Analista de Sistemas Júnior • Desenvolvedor Front-end • Desenvolvedor Mobile
+  Analista de Sistemas @Yup • Full Stack Developer 💻 • Instrutor de Tecnologia 🧑‍🏫
 </h3>
 <p align= "center";>
   <img
@@ -17,19 +17,21 @@
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
-![Wordpress](https://skillicons.dev/icons?i=wordpress)
+![SQL](https://skillicons.dev/icons?i=sql)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![C#](https://skillicons.dev/icons?i=cs)
+![C++](https://skillicons.dev/icons?i=cpp)
 ![NODEJS](https://skillicons.dev/icons?i=nodejs)
 ![MYSQL](https://skillicons.dev/icons?i=mysql)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Unity](https://skillicons.dev/icons?i=unity)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
 ![GitHub](https://skillicons.dev/icons?i=github)
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
+![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
+![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
 </div>
 
 ## 🎓Formação Acadêmica:
@@ -62,31 +64,23 @@ Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Framewo
 
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://cursos.alura.com.br/)
 
-**Curso Alura** \
-[**ALURA**](https://cursos.alura.com.br/) \
-Tecnologias e Linguagens: `Python`, `Javascript`, `HTML`, `CSS`, `UX Design`, `Canva`, `Power BI`, `Excel`\
-<br>
-<br>
-<br>
-  
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/R.d89b643c17f601608cb8e840a032655a?rik=9%2fQ%2b5F9ULmAlEg&pid=ImgRaw&r=0"/>](https://cursos.onebitcode.com/)
-
-**Curso OneBitCode** \
-[**ONEBITCODE**](https://cursos.onebitcode.com/) \
-Tecnologias e Linguagens: `TypeScript`, `Git e GitHub`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
-<br>
-<br>
-
-[<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?rs=1&pid=ImgDetMain"/>](udemy.com/)
-
-**Curso de React** \
-[**UDEMY**](udemy.com/) \
-Tecnologias e Linguagens: `React`, `React Native`, `TypeScript`, `Git e GitHub`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
-<br>
-<br>
-
-
 ## 💼Experiência Profissional:
+
+[<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
+
+**Analista de Sistemas Júnior** \
+[**Yup Chat**](https://yup.chat/) \
+Maio de 2025 - Atual \
+Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
+<br>
+
+[<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
+
+**Desenvolvedor de Software Júnior** \
+[**Cogny**](https://www.cogny.co/) \
+Novembro de 2024 - Janeiro de 2025 \
+Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
+<br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
 
@@ -103,29 +97,5 @@ Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Offic
 [**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
 Junho de 2022 - Janeiro de 2023 \
 Habilidades: `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`, `Dinâmicas de Grupo`, `Aprendizagem Socioemocional` \
-<br>
-
-[<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"/>](https://www.ensinamais.com.br)
-
-**Instrutor de Robótica** \
-[**Ensina Mais Turma da Mônica**](https://www.ensinamais.com.br/) \
-Fevereiro de 2023 - Março de 2023 \
-Habilidades: `Robótica`, `Aprendizagem Socioemocional`, `Comunicação`, `Dinâmicas de Grupo`, `Projetos` \
-<br>
-
-[<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
-
-**Desenvolvedor de Software Júnior** \
-[**Cogny**](https://www.cogny.co/) \
-Novembro de 2024 - Janeiro de 2025 \
-Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
-<br>
-
-[<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
-
-**Analista de Sistemas Júnior** \
-[**Yup Chat**](https://yup.chat/) \
-Maio de 2025 - Atual \
-Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
 <br>
 <br>
