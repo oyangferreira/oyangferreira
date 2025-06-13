@@ -1,5 +1,5 @@
 <h3 align="center">
-  Junior Systems Analyst • Front-end Developer • Mobile Developer
+  Analista de Sistemas Júnior • Desenvolvedor Front-end • Desenvolvedor Mobile
 </h3>
 <p align= "center";>
   <img
@@ -10,7 +10,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=true&border_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&icon_color=800080&title_color=89ffbe"/>
 </p>
 
-## 🎯Skills:
+## 🎯Habilidades:
 
 <div style="display: inline_block">
   
@@ -32,100 +32,100 @@
 ![GitHub](https://skillicons.dev/icons?i=github)
 </div>
 
-## 🎓Education:
+## 🎓Formação Acadêmica:
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
 
-**Systems Analysis and Development** \
+**Análise e Desenvolvimento de Sistemas** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
-February 2022 - December 2024 \
-Technologies and Languages: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
+Fevereiro de 2022 - Dezembro de 2024 \
+Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
-**Systems Development Technician** \
+**Técnico em Desenvolvimento de Sistemas** \
 [**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) \
-January 2020 - July 2021 \
-Technologies and Languages: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
+Janeiro de 2020 - Julho de 2021 \
+Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](http://etecperuibe.com.br/)
 
-**Digital Game Programming Technician** \
+**Técnico em Programação de Jogos Digitais** \
 [**ETEC DE PERUÍBE**](http://etec.com.br/) \
-January 2019 - December 2021 \
-Technologies and Languages: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Frameworks`, `Unity`, `Unreal`\
+Janeiro de 2019 - Dezembro de 2021 \
+Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Frameworks`, `Unity`, `Unreal`\
 <br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://cursos.alura.com.br/)
 
-**Alura Course** \
+**Curso Alura** \
 [**ALURA**](https://cursos.alura.com.br/) \
-Technologies and Languages: `Python`, `Javascript`, `HTML`, `CSS`, `UX Design`, `Canva`, `Power BI`, `Excel`\
+Tecnologias e Linguagens: `Python`, `Javascript`, `HTML`, `CSS`, `UX Design`, `Canva`, `Power BI`, `Excel`\
 <br>
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/R.d89b643c17f601608cb8e840a032655a?rik=9%2fQ%2b5F9ULmAlEg&pid=ImgRaw&r=0"/>](https://cursos.onebitcode.com/)
 
-**OneBitCode Course** \
+**Curso OneBitCode** \
 [**ONEBITCODE**](https://cursos.onebitcode.com/) \
-Technologies and Languages: `TypeScript`, `Git and GitHub`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
+Tecnologias e Linguagens: `TypeScript`, `Git e GitHub`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
 <br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?rs=1&pid=ImgDetMain"/>](udemy.com/)
 
-**React Course** \
+**Curso de React** \
 [**UDEMY**](udemy.com/) \
-Technologies and Languages: `React`, `React Native`, `TypeScript`, `Git and GitHub`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
+Tecnologias e Linguagens: `React`, `React Native`, `TypeScript`, `Git e GitHub`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
 <br>
 <br>
 
 
-## 💼Professional Experience:
+## 💼Experiência Profissional:
 
-[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
+[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
 
-**Computer Science Teacher** \
+**Professor de Informática** \
 [**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
-June 2022 - January 2023 \
-Skills: `Project Management`, `Social-Emotional Learning`, `Office Package`, `Group Dynamics` \
+Junho de 2022 - Janeiro de 2023 \
+Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Office`, `Dinâmicas de Grupo` \
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
+[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
 
-**Computer Maintenance Instructor** \
+**Instrutor de Manutenção de Computadores** \
 [**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
-June 2022 - January 2023 \
-Skills: `Hardware`, `Computer Maintenance`, `Project Management`, `Office Package`, `Group Dynamics`, `Social-Emotional Learning` \
+Junho de 2022 - Janeiro de 2023 \
+Habilidades: `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`, `Dinâmicas de Grupo`, `Aprendizagem Socioemocional` \
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"/>](https://www.ensinamais.com.br)
 
-**Robotics Instructor** \
+**Instrutor de Robótica** \
 [**Ensina Mais Turma da Mônica**](https://www.ensinamais.com.br/) \
-February 2023 - March 2023 \
-Skills: `Robotics`, `Social-Emotional Learning`, `Communication`, `Group Dynamics`, `Projects` \
+Fevereiro de 2023 - Março de 2023 \
+Habilidades: `Robótica`, `Aprendizagem Socioemocional`, `Comunicação`, `Dinâmicas de Grupo`, `Projetos` \
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
 
-**Junior Software Developer** \
+**Desenvolvedor de Software Júnior** \
 [**Cogny**](https://www.cogny.co/) \
-November 2024 - January 2025 \
-Skills: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
+Novembro de 2024 - Janeiro de 2025 \
+Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
 
-**Junior Systems Analyst** \
+**Analista de Sistemas Júnior** \
 [**Yup Chat**](https://yup.chat/) \
-May 2025 - Present \
-Skills: `Linux`, `Computer Networks`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
+Maio de 2025 - Atual \
+Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
 <br>
 <br>
