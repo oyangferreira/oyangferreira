@@ -62,8 +62,6 @@ Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Framewo
 <br>
 <br>
 
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4"/>](https://cursos.alura.com.br/)
-
 ## 💼Experiência Profissional:
 
 [<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
