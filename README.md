@@ -88,4 +88,4 @@ Habilidades: React, React Native, JavaScript, Redux, Firebase, SalesForce \
 Junho de 2022 - Janeiro de 2023 \
 Habilidades: Gestão de Projetos, Aprendizagem Socioemocional, Pacote Office, Dinâmicas de Grupo, Hardware, Manutenção de Computadores, Gestão de Projetos, Pacote Office\
 <br>
-<br> 
+<br>
