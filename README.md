@@ -39,7 +39,7 @@
 **Análise e Desenvolvimento de Sistemas** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
 Fevereiro de 2022 - Julho de 2025 \
-Tecnologias e Linguagens: Java, C++, NodeJs, Javascript, HTML, CSS, React, React Native, SQL, Oracle\
+Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
 <br>
 <br>  
 
@@ -48,7 +48,7 @@ Tecnologias e Linguagens: Java, C++, NodeJs, Javascript, HTML, CSS, React, React
 **Técnico em Desenvolvimento de Sistemas** \
 [**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) \
 Janeiro de 2020 - Julho de 2021 \
-Tecnologias e Linguagens: C#, Javascript, HTML, CSS, PHP\
+Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 <br>
 <br>
   
@@ -57,7 +57,7 @@ Tecnologias e Linguagens: C#, Javascript, HTML, CSS, PHP\
 **Técnico em Programação de Jogos Digitais** \
 [**ETEC DE PERUÍBE**](http://etec.com.br/) \
 Janeiro de 2019 - Dezembro de 2021 \
-Tecnologias e Linguagens: C#, Laravel, Javascript, HTML, CSS, Unity, Unreal\
+Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Unity`, `Unreal`\
 <br>
 <br>
 
@@ -68,16 +68,16 @@ Tecnologias e Linguagens: C#, Laravel, Javascript, HTML, CSS, Unity, Unreal\
 **Analista de Sistemas Júnior** \
 [**Yup Chat**](https://yup.chat/) \
 Maio de 2025 - Atual \
-Habilidades: Linux, Redes de Computadores, JavaScript, Vue, SQL, Kannel, SMPP \
+Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
 <br>
 <br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
 
-**Analista Desenvolvedor Júnior** \
+**Desenvolvedor de Software Júnior** \
 [**Cogny**](https://www.cogny.co/) \
 Novembro de 2024 - Janeiro de 2025 \
-Habilidades: React, React Native, JavaScript, Redux, Firebase, SalesForce \
+Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
 <br>
 <br>
 
@@ -86,6 +86,6 @@ Habilidades: React, React Native, JavaScript, Redux, Firebase, SalesForce \
 **Professor de Informática e Manutenção de Computadores** \
 [**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
 Junho de 2022 - Janeiro de 2023 \
-Habilidades: Gestão de Projetos, Aprendizagem Socioemocional, Pacote Office, Dinâmicas de Grupo, Hardware, Manutenção de Computadores, Gestão de Projetos, Pacote Office\
+Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Office`, `Dinâmicas de Grupo`, `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`\
 <br>
 <br>
