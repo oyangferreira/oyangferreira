@@ -19,7 +19,6 @@
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
 ![Firebase](https://skillicons.dev/icons?i=firebase)
-![SQL](https://skillicons.dev/icons?i=sql)
 ![Redux](https://skillicons.dev/icons?i=redux)
 ![C#](https://skillicons.dev/icons?i=cs)
 ![C++](https://skillicons.dev/icons?i=cpp)
@@ -40,8 +39,8 @@
 
 **Análise e Desenvolvimento de Sistemas** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
-Fevereiro de 2022 - Dezembro de 2024 \
-Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
+Fevereiro de 2022 - Julho de 2025 \
+Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
 <br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
@@ -58,7 +57,7 @@ Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 **Técnico em Programação de Jogos Digitais** \
 [**ETEC DE PERUÍBE**](http://etec.com.br/) \
 Janeiro de 2019 - Dezembro de 2021 \
-Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Frameworks`, `Unity`, `Unreal`\
+Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Unity`, `Unreal`\
 <br>
 <br>
 
@@ -82,18 +81,9 @@ Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesF
 
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
 
-**Professor de Informática** \
+**Professor de Informática e Manutenção de Computadores** \
 [**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
 Junho de 2022 - Janeiro de 2023 \
-Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Office`, `Dinâmicas de Grupo` \
-<br>
-<br>
-  
-[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
-
-**Instrutor de Manutenção de Computadores** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
-Junho de 2022 - Janeiro de 2023 \
-Habilidades: `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`, `Dinâmicas de Grupo`, `Aprendizagem Socioemocional` \
+Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Office`, `Dinâmicas de Grupo`, `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`\
 <br>
 <br>
