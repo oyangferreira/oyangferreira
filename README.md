@@ -1,14 +1,6 @@
 <h3 align="center">
-  Analista de Sistemas @Yup • Full Stack Developer 💻 • Instrutor de Tecnologia 🧑‍🏫
+  CPaaS Engineer | SMS & RCS | Full-Stack & Automation | Python • SQL • Node.js • SMPP • BI
 </h3>
-<p align= "center";>
-  <img
-    style="background-color: transparent; height: 180px;"
-    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&border_color=00000000&text_color=ffffff&theme=transparent&icon_color=800080&title_color=89ffbe"/>
-  <img
-    style="background-color: transparent; height: 180px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&hide_border=true&border_color=00000000&text_color=ffffff&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&icon_color=800080&title_color=89ffbe"/>
-</p>
 
 ## 🎯Habilidades:
 
@@ -50,7 +42,6 @@ Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, 
 Janeiro de 2020 - Julho de 2021 \
 Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 <br>
-<br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](http://etecperuibe.com.br/)
 
@@ -58,8 +49,6 @@ Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 [**ETEC DE PERUÍBE**](http://etec.com.br/) \
 Janeiro de 2019 - Dezembro de 2021 \
 Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Unity`, `Unreal`\
-<br>
-<br>
 
 ## 💼Experiência Profissional:
 
