@@ -94,6 +94,11 @@ Meu foco é usar tecnologia para gerar **controle, escala, eficiência e resulta
 ### **Análise e Desenvolvimento de Sistemas**  
 **FATEC Praia Grande**  
 📅 Fevereiro de 2022 - Julho de 2025  
+
+- Formação com foco em desenvolvimento de software, banco de dados e arquitetura de aplicações
+- Contato com desenvolvimento web, mobile e lógica de programação
+- Base técnica em construção de sistemas, modelagem e integração entre camadas
+
 Tecnologias e Linguagens: `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML` `CSS` `React` `React Native` `SQL` `Oracle` `MySQL` `Git` `GitHub`
 
 <br clear="left"/>
@@ -105,6 +110,11 @@ Tecnologias e Linguagens: `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML
 ### **Técnico em Desenvolvimento de Sistemas**  
 **ETEC Itanhaém**  
 📅 Janeiro de 2020 - Julho de 2021  
+
+- Formação técnica voltada para desenvolvimento de sistemas e banco de dados
+- Aprendizado de desenvolvimento web e estruturação de aplicações
+- Base sólida em lógica, programação e modelagem de soluções
+
 Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Server` `Git` `GitHub` `Lógica de Programação`
 
 <br clear="left"/>
@@ -116,6 +126,11 @@ Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Serv
 ### **Técnico em Programação de Jogos Digitais**  
 **ETEC Peruíbe**  
 📅 Janeiro de 2019 - Dezembro de 2021  
+
+- Formação voltada para programação, lógica, interatividade e desenvolvimento de projetos digitais
+- Experiência com motores de jogos, estrutura de interface e lógica aplicada
+- Desenvolvimento da base criativa e técnica para construção de produtos digitais
+
 Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS` `Game Design` `Lógica de Programação` `Git`
 
 <br clear="left"/>
@@ -129,6 +144,8 @@ Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS` `Game
 ### **Analista de Sistemas | Solutions Engineer**  
 **Yup Chat**  
 📅 Maio de 2025 - Atual  
+
+<br/>
 
 - Criação e gestão de **conexões SMPP**
 - Responsável pela operação de **agentes Google RCS**
@@ -152,16 +169,45 @@ Tecnologias: `Python` `JavaScript` `SQL` `PostgreSQL` `MySQL` `Linux` `SMPP` `Ka
 **Cogny**  
 📅 Novembro de 2024 - Janeiro de 2025  
 
-- Desenvolvimento de aplicações web e mobile com **React** e **React Native**
-- Construção de interfaces com foco em usabilidade, consistência e performance
-- Integração de funcionalidades com **Firebase** e **Salesforce**
-- Apoio na evolução de fluxos internos, componentes reutilizáveis e estrutura de front-end
-- Participação em melhorias de experiência do usuário e sustentação de funcionalidades do produto
-- Atuação em manutenção corretiva, evolução de telas e integração entre serviços
+<br/>
 
-Tecnologias: `React` `React Native` `JavaScript` `Redux` `Firebase` `Salesforce` `HTML` `CSS` `Figma` `Git` `GitHub`
+- Desenvolvimento mobile com **React Native** para aplicativos de grandes clubes e marcas, incluindo **Palmeiras, Grêmio, Cruzeiro, Orlando City e Chicago Fire**
+- Atuação em interfaces front-end com foco em usabilidade, navegação e performance
+- Integração de funcionalidades com **Firebase** e **Salesforce**
+- Trabalho com gerenciamento de estado usando **Redux**
+- Conexão entre app, serviços e banco de dados para sustentação das funcionalidades
+- Participação na evolução de fluxos, telas e componentes reutilizáveis
+- Apoio na manutenção e melhoria contínua dos aplicativos
+
+Tecnologias: `React Native` `React` `JavaScript` `Redux` `Firebase` `Salesforce` `HTML` `CSS` `Figma` `Git` `GitHub`
 
 <br clear="left"/>
+
+---
+
+## 🏅 Certificações
+
+### **CPO I - Certified Product Owner**  
+**Imagine Sky**  
+📅 Emitida em março de 2025  
+Competências: `Scrum` `Gestão de Projetos` `Product Ownership`
+
+### **Scrum Fundamentals Certified**  
+**Vabro.ai and VMEdu.com**  
+📅 Emitida em novembro de 2023  
+Código da credencial: `1008207`  
+Competências: `Scrum` `Metodologias Ágeis` `Metodologias em Cascata`
+
+### **DevOps & Agile Culture**  
+**FIAP**  
+📅 Emitida em junho de 2023  
+Código da credencial: `e12fc2a03233349f8899e7603f9b8d4b`  
+Competências: `DevOps` `Agile`
+
+### **Networking Essentials**  
+**Cisco Networking Academy**  
+📅 Emitida em junho de 2024  
+Competências: `Redes de Computadores` `Administração de Redes`
 
 ---
 
