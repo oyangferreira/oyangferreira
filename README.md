@@ -1,8 +1,52 @@
+<h1 align="center">👋 Fala, eu sou o Yang</h1>
+
 <h3 align="center">
-  Solutions Engineer | SMS • RCS • Whatsapp • SMPP | Integrações & APIs | BI & Automação
+  Solutions Engineer | CPaaS (SMS • RCS • WhatsApp • SMPP) | Integrações, Automação & Data (BI)
 </h3>
 
-## 🎯Habilidades:
+<p align="center">
+🚀 Construindo soluções escaláveis de comunicação digital <br>
+📡 Especialista em mensageria, APIs e automação <br>
+📊 Transformando dados em decisões
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Atuo como **Solutions Engineer** focado em **CPaaS, integrações e automação em larga escala**.
+
+Tenho experiência prática com:
+- 📡 SMS, RCS e WhatsApp Business
+- 🔗 Integrações via API e microserviços
+- ⚙️ Automação de fluxos e campanhas multicanal
+- 📊 BI, dashboards e análise de dados
+- 📈 Otimização de entregabilidade e custos
+
+Hoje trabalho conectando sistemas, reduzindo fricção operacional e criando soluções que realmente impactam o negócio.
+
+---
+
+## 🧠 Tech Stack
+
+### 📡 CPaaS & Mensageria
+`SMS` `RCS` `WhatsApp API` `SMPP` `Kannel`
+
+### 🔗 Integrações & Backend
+`Node.js` `Laravel` `REST APIs` `Webhooks` `MySQL` `PostgreSQL`
+
+### 📊 Data & Automação
+`Power BI` `Python` `Dashboards` `ETL` `Automação`
+
+### 💻 Frontend
+`JavaScript` `React` `Vue` `HTML` `CSS`
+
+### ⚙️ Infra & Tools
+`Linux (Debian)` `Git` `GitHub` `VS Code`
+
+---
+
+## 🎯 Habilidades
 
 <div style="display: inline_block">
   
@@ -10,71 +54,90 @@
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
-![Firebase](https://skillicons.dev/icons?i=firebase)
-![Redux](https://skillicons.dev/icons?i=redux)
-![C#](https://skillicons.dev/icons?i=cs)
-![C++](https://skillicons.dev/icons?i=cpp)
-![NODEJS](https://skillicons.dev/icons?i=nodejs)
-![MYSQL](https://skillicons.dev/icons?i=mysql)
+![Vue](https://skillicons.dev/icons?i=vue)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![Postgres](https://skillicons.dev/icons?i=postgres)
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Unity](https://skillicons.dev/icons?i=unity)
-![Figma](https://skillicons.dev/icons?i=figma)
+![Python](https://skillicons.dev/icons?i=python)
 ![GitHub](https://skillicons.dev/icons?i=github)
-![VisualStudioCode](https://skillicons.dev/icons?i=vscode)
-![AndroidStudio](https://skillicons.dev/icons?i=androidstudio)
+
 </div>
 
-## 🎓Formação Acadêmica:
-  
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://tse1.mm.bing.net/th/id/OIP.bhrwOIEuyES6wRMf77C1oAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://fatecrl.edu.br/)
+---
 
-**Análise e Desenvolvimento de Sistemas** \
-[**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
-Fevereiro de 2022 - Julho de 2025 \
-Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
-<br>
-<br> 
+## 🚀 Projetos em Destaque
 
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
+🔹 **Sistema de Automação Multicanal**  
+Envio automatizado de mensagens via WhatsApp, Email e redes sociais com controle de disparo e personalização.
 
-**Técnico em Desenvolvimento de Sistemas** \
-[**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) \
-Janeiro de 2020 - Julho de 2021 \
-Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
-<br>
-  
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/101/2021/02/Etec-png-1.png"/>](http://etecperuibe.com.br/)
+🔹 **Dashboard de Mensageria (SMS/RCS)**  
+Análise de performance, entregabilidade, custos e volume de campanhas com BI.
 
-**Técnico em Programação de Jogos Digitais** \
-[**ETEC DE PERUÍBE**](http://etec.com.br/) \
-Janeiro de 2019 - Dezembro de 2021 \
-Tecnologias e Linguagens: `C#`, `Laravel`, `Javascript`, `HTML`, `CSS`, `Unity`, `Unreal`\
+🔹 **Scripts de Gestão de Rotas**  
+Automação para controle de rotas SMPP, otimização de entregabilidade e redução de custos.
 
-## 💼Experiência Profissional:
+---
 
-[<img align="left" height="120px" width="120px" alt="" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
+## 💼 Experiência Profissional
 
-**Analista de Sistemas Júnior** \
-[**Yup Chat**](https://yup.chat/) \
-Maio de 2025 - Atual \
-Habilidades: `Linux`, `Redes de Computadores`, `JavaScript`, `Vue`, `SQL`, `Kannel`, `SMPP` \
-<br>
-<br>
+### 🏢 :contentReference[oaicite:0]{index=0}
+**Analista de Sistemas | Solutions Engineer**  
+📅 Maio de 2025 - Atual  
 
-[<img align="left" height="120px" width="120px" alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
+- Implementação de integrações SMS, RCS e WhatsApp  
+- Configuração e gestão de rotas SMPP (Kannel)  
+- Desenvolvimento de automações operacionais  
+- Criação de dashboards e análises (BI)  
+- Otimização de entregabilidade e custos  
+- Suporte técnico avançado (APIs e integrações)
 
-**Desenvolvedor de Software Júnior** \
-[**Cogny**](https://www.cogny.co/) \
-Novembro de 2024 - Janeiro de 2025 \
-Habilidades: `React`, `React Native`, `JavaScript`, `Redux`, `Firebase`, `SalesForce` \
-<br>
-<br>
+---
 
-[<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/)
+### 🏢 :contentReference[oaicite:1]{index=1}
+**Desenvolvedor de Software Júnior**  
+📅 Nov 2024 - Jan 2025  
 
-**Professor de Informática e Manutenção de Computadores** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/) \
-Junho de 2022 - Janeiro de 2023 \
-Habilidades: `Gestão de Projetos`, `Aprendizagem Socioemocional`, `Pacote Office`, `Dinâmicas de Grupo`, `Hardware`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`\
-<br>
-<br>
+- Desenvolvimento com React e React Native  
+- Integrações com Firebase e Salesforce  
+- Criação de interfaces e fluxos de usuário  
+
+---
+
+## 🎓 Formação Acadêmica
+
+🎓 **Análise e Desenvolvimento de Sistemas**  
+🏫 :contentReference[oaicite:2]{index=2}  
+📅 2022 - 2025  
+
+🎓 **Técnico em Desenvolvimento de Sistemas**  
+🏫 :contentReference[oaicite:3]{index=3}  
+📅 2020 - 2021  
+
+🎓 **Técnico em Programação de Jogos Digitais**  
+🏫 :contentReference[oaicite:4]{index=4}  
+📅 2019 - 2021  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Vamos conectar?
+
+💼 LinkedIn: (coloca aqui)  
+📧 Email: (coloca aqui)  
+🚀 Projetos: (se quiser, portfólio ou Mayax)
+
+---
+
+<p align="center">
+✨ "Tecnologia não é só código — é resolver problemas reais com eficiência."
+</p>
