@@ -1,121 +1,99 @@
-<h1 align="center">👋 Fala, eu sou o Yang</h1>
-
 <h3 align="center">
-  Solutions Engineer | CPaaS (SMS • RCS • WhatsApp • SMPP) | Founder @ Mayax Digital
+  Solutions Engineer | CPaaS (SMS • RCS • WhatsApp • SMPP) | Integrações & APIs | BI & Automação
 </h3>
 
-<p align="center">
-🚀 Construindo soluções escaláveis de comunicação <br>
-📡 Integrações, APIs e automação em larga escala <br>
-📊 Dados transformados em performance
-</p>
+---
+
+## 🎯 Habilidades
+
+<div style="display: inline_block">
+  
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vue)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Python](https://skillicons.dev/icons?i=python)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![Linux](https://skillicons.dev/icons?i=linux)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+
+</div>
 
 ---
 
-## 🧠 Sobre mim
+## 🎓 Formação Acadêmica
 
-Sou **Solutions Engineer** com foco em **CPaaS, automação e integrações complexas**.
+[<img align="left" height="100px" width="100px" src="https://tse1.mm.bing.net/th/id/OIP.bhrwOIEuyES6wRMf77C1oAHaHa?rs=1&pid=ImgDetMain"/>](https://fatecrl.edu.br/)
 
-Atuo conectando sistemas e criando soluções que impactam diretamente a operação e o resultado de empresas.
+**Análise e Desenvolvimento de Sistemas**  
+**FATEC Praia Grande**  
+📅 2022 - 2025  
+Tecnologias: `Java` `Node.js` `JavaScript` `React` `SQL`  
 
-Hoje trabalho com:
-- 📡 Mensageria: SMS, RCS e WhatsApp Business  
-- 🔗 Integrações via APIs (REST, Webhooks)  
-- ⚙️ Automação de fluxos e campanhas  
-- 📊 BI e análise de dados  
-- 📈 Otimização de entregabilidade e custos  
-
-Além disso, sou fundador da **Mayax Digital**, onde desenvolvo soluções digitais e estratégias para aquisição de clientes.
-
-💡 Minha missão é simples: **usar tecnologia para gerar resultado real**.
+<br clear="left"/>
 
 ---
 
-## 🚀 Especialidades
+[<img align="left" height="100px" width="100px" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
-- CPaaS (SMS, RCS, WhatsApp)
-- Integrações de APIs
-- Automação de processos
-- SMPP & Kannel
-- BI & análise de dados
-- Sistemas escaláveis
+**Técnico em Desenvolvimento de Sistemas**  
+**ETEC Itanhaém**  
+📅 2020 - 2021  
+Tecnologias: `C#` `JavaScript` `HTML` `CSS` `PHP`
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,vue,nodejs,laravel,python,mysql,postgres,linux,git,github,vscode" />
-</p>
+<br clear="left"/>
 
 ---
 
-## 📌 Projetos em Destaque
+[<img align="left" height="100px" width="100px" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/101/2021/02/Etec-png-1.png"/>](http://etecperuibe.com.br/)
 
-### 🔹 Automação Multicanal
-Sistema para disparo automatizado via:
-- WhatsApp
-- Email
-- Redes sociais  
+**Técnico em Programação de Jogos Digitais**  
+**ETEC Peruíbe**  
+📅 2019 - 2021  
+Tecnologias: `C#` `Unity` `JavaScript`  
 
-✔ Escala  
-✔ Personalização  
-✔ Controle de envio  
+<br clear="left"/>
 
 ---
 
-### 🔹 Dashboard de Mensageria
-Análise completa de:
-- Entregabilidade  
-- Custos  
-- Performance  
+## 💼 Experiência Profissional
 
-📊 Foco em decisão estratégica
+[<img align="left" height="100px" width="100px" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
 
----
-
-### 🔹 Gestão Inteligente de Rotas (SMPP)
-Automação para:
-- Melhorar entregabilidade  
-- Reduzir custos  
-- Otimizar envio  
-
----
-
-## 💼 Experiência
-
-### 🏢 Yup Chat
-**Analista de Sistemas | Solutions Engineer**  
-📅 2025 - Atual  
+### **Analista de Sistemas | Solutions Engineer**
+**Yup Chat**  
+📅 Maio 2025 - Atual  
 
 - Integrações SMS, RCS e WhatsApp  
 - Configuração de SMPP (Kannel)  
-- Automações operacionais  
-- BI e dashboards  
+- Automação de processos  
+- Dashboards e BI  
 - Otimização de entregabilidade  
 
----
+Tecnologias: `Linux` `Vue` `SQL` `SMPP`
 
-### 🏢 Cogny
-**Desenvolvedor de Software Júnior**  
-📅 2024 - 2025  
-
-- React e React Native  
-- Firebase e Salesforce  
-- Interfaces e fluxos  
+<br clear="left"/>
 
 ---
 
-## 🎓 Formação
+[<img align="left" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
 
-🎓 Análise e Desenvolvimento de Sistemas  
-FATEC Praia Grande  
+### **Desenvolvedor de Software Júnior**
+**Cogny**  
+📅 Nov 2024 - Jan 2025  
 
-🎓 Técnico em Desenvolvimento de Sistemas  
-ETEC Itanhaém  
+- Desenvolvimento com React e React Native  
+- Integrações com Firebase e Salesforce  
+- Criação de interfaces  
 
-🎓 Técnico em Programação de Jogos Digitais  
-ETEC Peruíbe  
+Tecnologias: `React` `React Native` `Firebase`
+
+<br clear="left"/>
 
 ---
 
@@ -124,17 +102,4 @@ ETEC Peruíbe
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&theme=tokyonight"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🌎 Contato
-
-💼 LinkedIn: https://www.linkedin.com/in/yangsarmentoferreira/  
-📧 Email: (coloca aqui)
-
----
-
-<p align="center">
-⚡ "Tecnologia não é só código — é resultado."
-</p>
+</p>****
