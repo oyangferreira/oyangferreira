@@ -43,7 +43,7 @@ Janeiro de 2020 - Julho de 2021 \
 Tecnologias e Linguagens: `C#`, `Javascript`, `HTML`, `CSS`, `PHP`\
 <br>
   
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](http://etecperuibe.com.br/)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://bkpsitecpsnew.blob.core.windows.net/uploadsitecps/sites/101/2021/02/Etec-png-1.png"/>](http://etecperuibe.com.br/)
 
 **Técnico em Programação de Jogos Digitais** \
 [**ETEC DE PERUÍBE**](http://etec.com.br/) \
