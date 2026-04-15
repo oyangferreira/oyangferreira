@@ -1,5 +1,5 @@
 <h3 align="center">
-  Solutions Engineer | Founder & CEO @Mayax Digital | SMS • RCS • Whatsapp | Integrações & APIs | BI & Automação
+  Solutions Engineer | SMS • RCS • Whatsapp • SMPP | Integrações & APIs | BI & Automação
 </h3>
 
 ## 🎯Habilidades:
