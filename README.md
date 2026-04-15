@@ -1,27 +1,27 @@
-<h1 align="center">Yang Ferreira</h1>
+<h1 align="center">Yang Sarmento Ferreira</h1>
 
 <h3 align="center">
-  Solutions Engineer | CPaaS (SMS • RCS • WhatsApp • SMPP) | Integrações & APIs | BI & Automação
+  Solutions Engineer | Founder & CEO @Mayax Digital
 </h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=900&lines=Especialista+em+mensageria+e+integra%C3%A7%C3%B5es+escal%C3%A1veis;SMS+%E2%80%A2+RCS+%E2%80%A2+WhatsApp+%E2%80%A2+SMPP;Automa%C3%A7%C3%A3o%2C+APIs%2C+BI+e+performance+operacional;Construindo+solu%C3%A7%C3%B5es+que+geram+resultado+real" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=980&lines=CPaaS+%E2%80%A2+SMS+%E2%80%A2+RCS+%E2%80%A2+WhatsApp+%E2%80%A2+SMPP;Integra%C3%A7%C3%B5es%2C+API%2C+BI+e+Automa%C3%A7%C3%A3o;Onboarding%2C+opera%C3%A7%C3%A3o+e+escala+em+mensageria;Construindo+solu%C3%A7%C3%B5es+que+geram+controle+e+resultado" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=0e75b6">
-    <img src="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=0e75b6" alt="Profile views" />
+  <a href="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=7C3AED">
+    <img src="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=7C3AED" alt="Profile views" />
   </a>
   <a href="https://github.com/oyangferreira?tab=followers">
-    <img src="https://img.shields.io/github/followers/oyangferreira?style=for-the-badge&color=1f6feb" alt="followers" />
+    <img src="https://img.shields.io/github/followers/oyangferreira?style=for-the-badge&color=6D28D9" alt="followers" />
   </a>
   <a href="https://github.com/oyangferreira">
-    <img src="https://img.shields.io/github/stars/oyangferreira?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=2563eb" alt="stars" />
+    <img src="https://img.shields.io/github/stars/oyangferreira?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=9333EA" alt="stars" />
   </a>
   <a href="https://www.linkedin.com/in/yangsarmentoferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 </p>
 
@@ -29,17 +29,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou um profissional focado em **CPaaS, integrações e automação**, com atuação voltada para soluções escaláveis de comunicação e eficiência operacional.
+Atuo como **Solutions Engineer** com foco em **CPaaS, mensageria, integração, BI e automação operacional**, além de ser **Founder & CEO da Mayax Digital**.
 
-Hoje meu trabalho está concentrado em:
+Hoje sou responsável por frentes estratégicas e técnicas que sustentam a operação e a evolução de produtos e clientes, incluindo:
 
-- Integrações com **SMS, RCS, WhatsApp e SMPP**
-- Desenvolvimento e sustentação de **APIs, fluxos e automações**
-- Criação de **dashboards e análises operacionais**
-- Otimização de **entregabilidade, performance e custo**
-- Apoio técnico em cenários críticos de **mensageria e integração**
+- Criação e gestão de **conexões SMPP**
+- Operação completa de **agentes Google RCS**
+- Desenvolvimento de **formulário de criação de agentes**
+- Desenvolvimento de **dashboard para controle de agentes**
+- **Onboarding** e suporte técnico de clientes
+- Criação e manutenção do **BI operacional**
+- Automação de processos com **Python**
+- Controle de **rotas SMS, custo, preço, entregabilidade, conexão e fornecedores**
 
-Meu objetivo é unir **tecnologia, dados e execução** para criar soluções que realmente geram impacto.
+Meu foco é usar tecnologia para gerar **controle, escala, eficiência e resultado real**.
 
 ---
 
@@ -52,7 +55,6 @@ Meu objetivo é unir **tecnologia, dados e execução** para criar soluções qu
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
-![Vue](https://skillicons.dev/icons?i=vue)
 ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Python](https://skillicons.dev/icons?i=python)
@@ -72,15 +74,15 @@ Meu objetivo é unir **tecnologia, dados e execução** para criar soluções qu
 ## 🧩 Especialidades
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CPaaS-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SMS-1d4ed8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RCS-2563eb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WhatsApp-16a34a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SMPP-334155?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/APIs-0ea5e9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI-9333ea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CPaaS-2E1065?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SMS-5B21B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RCS-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WhatsApp-7E22CE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SMPP-581C87?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-A21CAF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BI-C026D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linux-3B0764?style=for-the-badge" />
 </p>
 
 ---
@@ -92,7 +94,7 @@ Meu objetivo é unir **tecnologia, dados e execução** para criar soluções qu
 ### **Análise e Desenvolvimento de Sistemas**  
 **FATEC Praia Grande**  
 📅 Fevereiro de 2022 - Julho de 2025  
-Tecnologias e Linguagens: `Java` `Node.js` `JavaScript` `React` `React Native` `SQL` `Oracle`
+Tecnologias e Linguagens: `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML` `CSS` `React` `React Native` `SQL` `Oracle` `MySQL` `Git` `GitHub`
 
 <br clear="left"/>
 
@@ -103,7 +105,7 @@ Tecnologias e Linguagens: `Java` `Node.js` `JavaScript` `React` `React Native` `
 ### **Técnico em Desenvolvimento de Sistemas**  
 **ETEC Itanhaém**  
 📅 Janeiro de 2020 - Julho de 2021  
-Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP`
+Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Server` `Git` `GitHub` `Lógica de Programação`
 
 <br clear="left"/>
 
@@ -114,7 +116,7 @@ Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP`
 ### **Técnico em Programação de Jogos Digitais**  
 **ETEC Peruíbe**  
 📅 Janeiro de 2019 - Dezembro de 2021  
-Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS`
+Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS` `Game Design` `Lógica de Programação` `Git`
 
 <br clear="left"/>
 
@@ -128,14 +130,17 @@ Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS`
 **Yup Chat**  
 📅 Maio de 2025 - Atual  
 
-- Atuação com integrações de **SMS, RCS e WhatsApp**
-- Configuração e gestão de conectividade **SMPP / Kannel**
-- Desenvolvimento de **automações operacionais**
-- Construção de **dashboards e análises BI**
-- Apoio técnico em cenários de **entregabilidade e performance**
-- Sustentação de fluxos com foco em **eficiência e escala**
+- Criação e gestão de **conexões SMPP**
+- Responsável por toda a operação de **agentes Google RCS**
+- Desenvolvimento do **formulário de criação de agentes**
+- Criação de **dashboard para controle e acompanhamento dos agentes**
+- **Onboarding** técnico e suporte ao cliente
+- Responsável pela criação, manutenção e alimentação do **BI operacional**
+- Construção de automações com **Python** para ganho de eficiência operacional
+- Manutenção e controle de **rotas SMS**, incluindo preço, entregabilidade, custo, conexão e fornecedores
+- Acompanhamento operacional de produtos e indicadores de **SMS, RCS, WhatsApp e SaaS**
 
-Tecnologias: `Linux` `Vue` `SQL` `SMPP` `Kannel` `JavaScript`
+Tecnologias: `Python` `JavaScript` `SQL` `PostgreSQL` `MySQL` `Linux` `SMPP` `Kannel` `Google RCS` `Power BI` `API` `Automação` `Dashboards`
 
 <br clear="left"/>
 
@@ -147,11 +152,14 @@ Tecnologias: `Linux` `Vue` `SQL` `SMPP` `Kannel` `JavaScript`
 **Cogny**  
 📅 Novembro de 2024 - Janeiro de 2025  
 
-- Desenvolvimento de aplicações com **React** e **React Native**
-- Integrações com **Firebase** e **Salesforce**
-- Criação de interfaces e fluxos com foco em experiência e funcionalidade
+- Desenvolvimento de aplicações web e mobile com **React** e **React Native**
+- Construção de interfaces modernas com foco em usabilidade, consistência e performance
+- Integração de funcionalidades com **Firebase** e **Salesforce**
+- Apoio na evolução de fluxos internos, componentes reutilizáveis e estrutura de front-end
+- Participação em melhorias de experiência do usuário e sustentação de funcionalidades do produto
+- Atuação em manutenção corretiva, evolução de telas e integração entre serviços
 
-Tecnologias: `React` `React Native` `Firebase` `Redux` `JavaScript`
+Tecnologias: `React` `React Native` `JavaScript` `Redux` `Firebase` `Salesforce` `HTML` `CSS` `Figma` `Git` `GitHub`
 
 <br clear="left"/>
 
@@ -159,27 +167,27 @@ Tecnologias: `React` `React Native` `Firebase` `Redux` `JavaScript`
 
 ## 📈 Destaques Profissionais
 
-- Forte atuação em **mensageria corporativa**
-- Experiência com **integrações críticas e sustentação técnica**
-- Visão prática de **automação operacional e dados**
-- Capacidade de conectar **negócio, tecnologia e execução**
-- Perfil orientado a **performance, escala e melhoria contínua**
+- Forte atuação em **mensageria corporativa e operação CPaaS**
+- Experiência prática em **SMPP, Google RCS, onboarding e suporte técnico**
+- Criação de soluções internas para **controle operacional e visibilidade de dados**
+- Perfil orientado a **escala, performance, automação e eficiência**
+- Capacidade de conectar **tecnologia, operação e negócio**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=oyangferreira&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=oyangferreira&theme=midnight-purple&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyangferreira&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyangferreira&theme=react-dark&hide_border=true&area=true&color=A855F7&line=9333EA&point=C084FC&area_color=7E22CE" />
 </p>
 
 ---
@@ -188,15 +196,15 @@ Tecnologias: `React` `React Native` `Firebase` `Redux` `JavaScript`
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yangsarmentoferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yang%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Yang%20Ferreira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:SEUEMAILAQUI">
-    <img src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/E--mail-Contato-A21CAF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:A21CAF&height=120&section=footer"/>
 </p>
