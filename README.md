@@ -26,7 +26,7 @@
 
 ## 🎓Formação Acadêmica:
   
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://media.licdn.com/dms/image/C560BAQFWCsVTBaD6nw/company-logo_200_200/0/1519868830556?e=2147483647&v=beta&t=rWw8EWpRS9l0clR0-Hbf8krBgHhNP9Ikr8wR5_NX8pM"/>](https://fatecrl.edu.br/)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://fatecrl.edu.br/public/images/logos/logo-fatec-branco.png"/>](https://fatecrl.edu.br/)
 
 **Análise e Desenvolvimento de Sistemas** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
