@@ -1,5 +1,5 @@
 <h3 align="center">
-  CPaaS Engineer | SMS & RCS | Full-Stack & Automation | Python • SQL • Node.js • SMPP • BI
+  Solutions Engineer | Founder & CEO @Mayax Digital | CPaaS | SMS • RCS • Whatsapp • SMPP | Integrações & APIs | BI & Automação
 </h3>
 
 ## 🎯Habilidades:
@@ -26,13 +26,12 @@
 
 ## 🎓Formação Acadêmica:
   
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://fatecrl.edu.br/public/images/logos/logo-fatec-branco.png"/>](https://fatecrl.edu.br/)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://tse1.mm.bing.net/th/id/OIP.bhrwOIEuyES6wRMf77C1oAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"/>](https://fatecrl.edu.br/)
 
 **Análise e Desenvolvimento de Sistemas** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
 Fevereiro de 2022 - Julho de 2025 \
 Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
-<br>
 <br>  
 
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
