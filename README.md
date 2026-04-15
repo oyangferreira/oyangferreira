@@ -1,5 +1,5 @@
 <h3 align="center">
-  Solutions Engineer | Founder & CEO @Mayax Digital | CPaaS | SMS • RCS • Whatsapp • SMPP | Integrações & APIs | BI & Automação
+  Solutions Engineer | Founder & CEO @Mayax Digital | SMS • RCS • Whatsapp | Integrações & APIs | BI & Automação
 </h3>
 
 ## 🎯Habilidades:
@@ -32,7 +32,8 @@
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) \
 Fevereiro de 2022 - Julho de 2025 \
 Tecnologias e Linguagens: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`\
-<br>  
+<br>
+<br> 
 
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
