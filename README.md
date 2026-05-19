@@ -29,7 +29,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Atuo como **Solutions Engineer** com foco em **CPaaS, mensageria, integração, BI e automação operacional**, além de ser **Founder & CEO da Mayax Digital**.
+Atuo como **Solutions Engineer** com foco em **CPaaS, mensageria, integração, BI e automação operacional**.
 
 Hoje estou à frente de frentes técnicas e operacionais que sustentam a evolução de produtos e clientes, incluindo:
 
