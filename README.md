@@ -228,9 +228,6 @@ Tecnologias: `React Native` `React` `JavaScript` `Redux` `Firebase` `Salesforce`
 **Skills:** Software Engineering, System Design, Software Architecture  
 🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQF4oiccTM8qhA/profile-treasury-image-shrink_800_800/B4DZ26nZ_pG4Ac-/0/1776952386271?e=1779825600&v=beta&t=38E0Vh6B3M3INke8ZZgTtVt8kSXOXurIonhUok5-TJY)
 
-<br clear="left"/>
-
----
 
 ---
 
