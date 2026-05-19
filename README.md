@@ -1,7 +1,7 @@
 <h1 align="center">Yang Sarmento Ferreira</h1>
 
 <h3 align="center">
-  Solutions Engineer | Founder & CEO @Mayax Digital
+  Solutions Engineer | CPaaS & Messaging Solutions | APIs & Integrations | BI & Automation
 </h3>
 
 <p align="center">
