@@ -185,51 +185,51 @@ Tecnologias: `React Native` `React` `JavaScript` `Redux` `Firebase` `Salesforce`
 
 ---
 
-## 🏅 Certificações
+## 🏅 Certifications
 
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEFqUruVBC3sQ/company-logo_100_100/B4DZXKHEQtGkAQ-/0/1742852606006?e=1778112000&v=beta&t=8BqDFFZ1wtEHNQ6E2X3O49Usl69cuSXWAnkp9FiGmRc"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1776877200&v=beta&t=Gna_WJBTABbFkhoLcNZkk4dx2BTt56IjcRP2FIok_Xg)
+[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEFqUruVBC3sQ/company-logo_100_100/B4DZXKHEQtGkAQ-/0/1742852606006?e=1780531200&v=beta&t=f7nyAiRptRFpyrW_TjK1lA-cvGD2rEUCnf1v8dI1rbo"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1776877200&v=beta&t=Gna_WJBTABbFkhoLcNZkk4dx2BTt56IjcRP2FIok_Xg)
 
-### **CPO I - Certified Product Owner**  
+### **CPO I – Certified Product Owner**
 **Imagine Sky**  
-📅 Emitida em março de 2025  
-Competências: `Scrum` `Gestão de Projetos` `Product Ownership`  
-🔗 [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1776877200&v=beta&t=Gna_WJBTABbFkhoLcNZkk4dx2BTt56IjcRP2FIok_Xg)
+📅 Issued in March 2025  
+**Skills:** Scrum, Project Management, Product Ownership  
+🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1776877200&v=beta&t=Gna_WJBTABbFkhoLcNZkk4dx2BTt56IjcRP2FIok_Xg)
 
 <br clear="left"/>
 
 ---
 
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/C4E0BAQG9_uP8f-kpiw/company-logo_100_100/company-logo_100_100/0/1631356592679?e=1778112000&v=beta&t=wkpA03dahcZDb0e9I5tx9YobVVcrwU8oMuRntLSBecI"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716660815?e=1776877200&v=beta&t=VoeZUHPFLBKboqVO30YSPH5P6GEz_kP_05UwoiCWr-8)
+[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/C4E0BAQG9_uP8f-kpiw/company-logo_100_100/company-logo_100_100/0/1631356592679?e=1780531200&v=beta&t=_zE3utIJSaxGItRGd9MJzmU4g9MkuMLHn9IFY4R_0eM"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/0/1718716660815?e=1776877200&v=beta&t=VoeZUHPFLBKboqVO30YSPH5P6GEz_kP_05UwoiCWr-8)
 
-### **Scrum Fundamentals Certified**  
+### **Scrum Fundamentals Certified**
 **Scrum Study**  
-📅 Emitida em novembro de 2023  
-Competências: `Scrum` `Metodologias Ágeis` `Metodologias em Cascata`  
-🔗 [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716660815?e=1776877200&v=beta&t=VoeZUHPFLBKboqVO30YSPH5P6GEz_kP_05UwoiCWr-8)
+📅 Issued in November 2023  
+**Skills:** Scrum, Agile Methodologies, Waterfall Methodologies  
+🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/0/1718716660815?e=1776877200&v=beta&t=VoeZUHPFLBKboqVO30YSPH5P6GEz_kP_05UwoiCWr-8)
 
 <br clear="left"/>
 
 ---
 
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1778112000&v=beta&t=mS8h7JyxeYj-e0iaNGjHV3Zoyqd4lbBBrHdSfart1Z8"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716292094?e=1776877200&v=beta&t=7HM4gC99oD80azUMARwlo-t5jY6Ej1wZtxcfuSVBP9w)
+[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1780531200&v=beta&t=ZTUlk7ffYBYAvciSFy6nuttOytxkR6r-i0mARooSXqg"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/0/1718716292094?e=1776877200&v=beta&t=7HM4gC99oD80azUMARwlo-t5jY6Ej1wZtxcfuSVBP9w)
 
-### **DevOps & Agile Culture**  
+### **DevOps & Agile Culture**
 **FIAP**  
-📅 Emitida em junho de 2023  
-Competências: `DevOps` `Agile`  
-🔗 [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716292094?e=1776877200&v=beta&t=7HM4gC99oD80azUMARwlo-t5jY6Ej1wZtxcfuSVBP9w)
+📅 Issued in June 2023  
+**Skills:** DevOps, Agile  
+🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/0/1718716292094?e=1776877200&v=beta&t=7HM4gC99oD80azUMARwlo-t5jY6Ej1wZtxcfuSVBP9w)
 
 <br clear="left"/>
 
 ---
 
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_100_100/B4DZcSgOD1HMAU-/0/1748362125886/cisco_networking_academy1_logo?e=1778112000&v=beta&t=XHTkvZf5VNiRjM__yp75snHc9nwSkFCDZ5bYe1QTuCM"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1718715644960?e=1776877200&v=beta&t=pQBCViuOqpvLKMX8zAPmxbuGNZcUpMogupEeyqnA9fI)
+[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_100_100/B4DZcSgOD1HMAU-/0/1748362125886/cisco_networking_academy1_logo?e=1780531200&v=beta&t=NQpP5VrLtT2wNM5ziK7jr8-xvVBv_-XVR4uNyH07BIg"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-cover-images_1280/0/1718715644960?e=1776877200&v=beta&t=pQBCViuOqpvLKMX8zAPmxbuGNZcUpMogupEeyqnA9fI)
 
-### **Networking Essentials**  
+### **Networking Essentials**
 **Cisco Networking Academy**  
-📅 Emitida em junho de 2024  
-Competências: `Redes de Computadores` `Administração de Redes`  
-🔗 [Ver certificado](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-cover-images_1280/profile-treasury-document-cover-images_1280/0/1718715644960?e=1776877200&v=beta&t=pQBCViuOqpvLKMX8zAPmxbuGNZcUpMogupEeyqnA9fI)
+📅 Issued in June 2024  
+**Skills:** Computer Networking, Network Administration  
+🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-cover-images_1280/0/1718715644960?e=1776877200&v=beta&t=pQBCViuOqpvLKMX8zAPmxbuGNZcUpMogupEeyqnA9fI)
 
 <br clear="left"/>
 
