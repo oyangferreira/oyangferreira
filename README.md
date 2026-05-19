@@ -6,56 +6,71 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=980&lines=CPaaS+%E2%80%A2+SMS+%E2%80%A2+RCS+%E2%80%A2+WhatsApp+%E2%80%A2+SMPP;Integra%C3%A7%C3%B5es%2C+API%2C+BI+e+Automa%C3%A7%C3%A3o;Onboarding%2C+opera%C3%A7%C3%A3o+e+escala+em+mensageria;Construindo+solu%C3%A7%C3%B5es+que+geram+controle+e+resultado" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=7C3AED&center=true&vCenter=true&width=980&lines=CPaaS+%E2%80%A2+SMS+%E2%80%A2+RCS+%E2%80%A2+WhatsApp+%E2%80%A2+SMPP;Integrations%2C+APIs%2C+BI+and+Automation;Onboarding%2C+Operations+and+Messaging+at+Scale;Building+Solutions+That+Drive+Control+and+Results"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=7C3AED">
-    <img src="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=7C3AED" alt="Profile views" />
+    <img
+      src="https://komarev.com/ghpvc/?username=oyangferreira&style=for-the-badge&color=7C3AED"
+      alt="Profile Views"
+    />
   </a>
   <a href="https://github.com/oyangferreira?tab=followers">
-    <img src="https://img.shields.io/github/followers/oyangferreira?style=for-the-badge&color=7C3AED" alt="followers" />
+    <img
+      src="https://img.shields.io/github/followers/oyangferreira?style=for-the-badge&color=7C3AED"
+      alt="Followers"
+    />
   </a>
   <a href="https://github.com/oyangferreira">
-    <img src="https://img.shields.io/github/stars/oyangferreira?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED" alt="stars" />
+    <img
+      src="https://img.shields.io/github/stars/oyangferreira?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=7C3AED"
+      alt="Stars"
+    />
   </a>
   <a href="https://www.linkedin.com/in/yangsarmentoferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-Atuo como **Solutions Engineer** com foco em **CPaaS, mensageria, integração, BI e automação operacional**.
+I work as a **Solutions Engineer** focused on **CPaaS, messaging, integrations, BI, and operational automation**.
 
-Hoje estou à frente de frentes técnicas e operacionais que sustentam a evolução de produtos e clientes, incluindo:
+Currently, I lead technical and operational initiatives that support product evolution and customer success, including:
 
-- Criação e gestão de **conexões SMPP**
-- Operação completa de **agentes Google RCS**
-- Desenvolvimento de **formulário para criação de agentes**
-- Criação de **dashboard para controle e acompanhamento dos agentes**
-- **Onboarding** e suporte técnico ao cliente
-- Criação, manutenção e alimentação do **BI operacional**
-- Automações com **Python** para ganho de eficiência interna
-- Controle de **rotas SMS**, incluindo preço, entregabilidade, custo, conexão e fornecedores
+- Design and management of **SMPP connections**
+- End-to-end operation of **Google RCS agents**
+- Development of an **RCS agent provisioning platform**
+- Creation of **management dashboards** for operational monitoring
+- Technical **onboarding** and customer support
+- Development and maintenance of the **operational BI platform**
+- **Python automations** to improve internal efficiency
+- Management of **SMS routes**, including pricing, deliverability, costs, connectivity, and supplier relationships
 
-Meu foco é usar tecnologia para gerar **controle, escala, eficiência e resultado real**.
+My focus is on leveraging technology to drive **control, scalability, efficiency, and measurable results**.
 
 ---
 
-## 🎯 Habilidades
+## 🎯 Technical Skills
 
-<div style="display: inline_block">
-  
+<div align="center">
+
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![CSS3](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![React](https://skillicons.dev/icons?i=react)
-![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Laravel](https://skillicons.dev/icons?i=laravel)
 ![Python](https://skillicons.dev/icons?i=python)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
@@ -65,13 +80,13 @@ Meu foco é usar tecnologia para gerar **controle, escala, eficiência e resulta
 ![Git](https://skillicons.dev/icons?i=git)
 ![GitHub](https://skillicons.dev/icons?i=github)
 ![Figma](https://skillicons.dev/icons?i=figma)
-![VSCode](https://skillicons.dev/icons?i=vscode)
+![VS Code](https://skillicons.dev/icons?i=vscode)
 
 </div>
 
 ---
 
-## 🧩 Especialidades
+## 🧩 Core Expertise
 
 <p align="center">
   <img src="https://img.shields.io/badge/CPaaS-2E1065?style=for-the-badge" />
@@ -79,27 +94,27 @@ Meu foco é usar tecnologia para gerar **controle, escala, eficiência e resulta
   <img src="https://img.shields.io/badge/RCS-6D28D9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WhatsApp-7E22CE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SMPP-581C87?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%A3o-A21CAF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BI-C026D3?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/APIs-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-A21CAF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Intelligence-C026D3?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Linux-3B0764?style=for-the-badge" />
 </p>
 
 ---
 
-## 🎓 Formação Acadêmica
+## 🎓 Education
 
 [<img align="left" height="100px" width="100px" src="https://tse1.mm.bing.net/th/id/OIP.bhrwOIEuyES6wRMf77C1oAHaHa?rs=1&pid=ImgDetMain"/>](https://fatecrl.edu.br/)
 
-### **Análise e Desenvolvimento de Sistemas**  
+### **Systems Analysis and Development**
 **FATEC Praia Grande**  
-📅 Fevereiro de 2022 - Julho de 2025  
+📅 February 2022 – July 2025
 
-- Formação com foco em desenvolvimento de software, banco de dados e arquitetura de aplicações
-- Contato com desenvolvimento web, mobile e lógica de programação
-- Base técnica em construção de sistemas, modelagem e integração entre camadas
+- Degree focused on software development, databases, and application architecture
+- Experience with web and mobile development and programming logic
+- Strong foundation in systems design, modeling, and integration
 
-Tecnologias e Linguagens: `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML` `CSS` `React` `React Native` `SQL` `Oracle` `MySQL` `Git` `GitHub`
+**Technologies:** `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML` `CSS` `React` `React Native` `SQL` `Oracle` `MySQL` `Git` `GitHub`
 
 <br clear="left"/>
 
@@ -107,15 +122,15 @@ Tecnologias e Linguagens: `Java` `C++` `Node.js` `JavaScript` `TypeScript` `HTML
 
 [<img align="left" height="100px" width="100px" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
-### **Técnico em Desenvolvimento de Sistemas**  
+### **Technical Degree in Systems Development**
 **ETEC Itanhaém**  
-📅 Janeiro de 2020 - Julho de 2021  
+📅 January 2020 – July 2021
 
-- Formação técnica voltada para desenvolvimento de sistemas e banco de dados
-- Aprendizado de desenvolvimento web e estruturação de aplicações
-- Base sólida em lógica, programação e modelagem de soluções
+- Technical education focused on software development and databases
+- Training in web development and application structure
+- Solid foundation in programming logic and solution modeling
 
-Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Server` `Git` `GitHub` `Lógica de Programação`
+**Technologies:** `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Server` `Git` `GitHub`
 
 <br clear="left"/>
 
@@ -123,41 +138,41 @@ Tecnologias e Linguagens: `C#` `JavaScript` `HTML` `CSS` `PHP` `MySQL` `SQL Serv
 
 [<img align="left" height="100px" width="100px" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](http://etecperuibe.com.br/)
 
-### **Técnico em Programação de Jogos Digitais**  
+### **Technical Degree in Digital Game Programming**
 **ETEC Peruíbe**  
-📅 Janeiro de 2019 - Dezembro de 2021  
+📅 January 2019 – December 2021
 
-- Formação voltada para programação, lógica, interatividade e desenvolvimento de projetos digitais
-- Experiência com motores de jogos, estrutura de interface e lógica aplicada
-- Desenvolvimento da base criativa e técnica para construção de produtos digitais
+- Education focused on programming, logic, and digital product development
+- Experience with game engines, UI structure, and applied logic
+- Creative and technical foundation for building digital products
 
-Tecnologias e Linguagens: `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS` `Game Design` `Lógica de Programação` `Git`
+**Technologies:** `C#` `Unity` `Laravel` `JavaScript` `HTML` `CSS` `Game Design` `Git`
 
 <br clear="left"/>
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-[<img align="left" height="100px" width="100px" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png">](https://yup.chat/)
+[<img align="left" height="100px" width="100px" src="https://framerusercontent.com/images/Bycyuz7TyxXNGlnIJEVX3Ju8Q.png"/>](https://yup.chat/)
 
-### **Analista de Sistemas | Solutions Engineer**  
+### **Systems Analyst | Solutions Engineer**
 **Yup Chat**  
-📅 Maio de 2025 - Atual  
+📅 May 2025 – Present
 
 <br/>
 
-- Criação e gestão de **conexões SMPP**
-- Responsável pela operação de **agentes Google RCS**
-- Desenvolvimento do **formulário de criação de agentes**
-- Criação de **dashboard para controle e acompanhamento dos agentes**
-- **Onboarding** técnico e suporte ao cliente
-- Criação, manutenção e alimentação do **BI operacional**
-- Desenvolvimento de automações com **Python** para a operação
-- Controle de **rotas SMS**, incluindo preço, entregabilidade, custo, conexão e fornecedores
-- Acompanhamento operacional de **SMS, RCS, WhatsApp e SaaS**
+- Design and management of **SMPP connections**
+- Responsible for the operation of **Google RCS agents**
+- Development of the **RCS agent provisioning platform**
+- Creation of **dashboards** for agent monitoring and control
+- Technical **onboarding** and customer support
+- Development and maintenance of the **operational BI platform**
+- Creation of **Python automations** for operational efficiency
+- Management of **SMS routes**, including pricing, deliverability, costs, connectivity, and supplier relationships
+- Operational support for **SMS, RCS, WhatsApp, and SaaS products**
 
-Tecnologias: `Python` `JavaScript` `SQL` `PostgreSQL` `MySQL` `Linux` `SMPP` `Kannel` `Google RCS` `Power BI` `API` `Automação` `Dashboards`
+**Technologies:** `Python` `JavaScript` `SQL` `PostgreSQL` `MySQL` `Linux` `SMPP` `Kannel` `Google RCS` `Power BI` `APIs` `Automation`
 
 <br clear="left"/>
 
@@ -165,122 +180,20 @@ Tecnologias: `Python` `JavaScript` `SQL` `PostgreSQL` `MySQL` `Linux` `SMPP` `Ka
 
 [<img align="left" height="100px" width="100px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROocYHhcuqnGacuW6iiHgtSb4ovhGBss1VmA&s"/>](https://www.cogny.co/)
 
-### **Desenvolvedor de Software Júnior**  
+### **Junior Software Developer**
 **Cogny**  
-📅 Novembro de 2024 - Janeiro de 2025  
+📅 November 2024 – January 2025
 
 <br/>
 
-- Desenvolvimento mobile com **React Native** para aplicativos de grandes clubes e marcas, incluindo **Palmeiras, Grêmio, Cruzeiro, Orlando City e Chicago Fire**
-- Atuação em interfaces front-end com foco em usabilidade, navegação e performance
-- Integração de funcionalidades com **Firebase** e **Salesforce**
-- Trabalho com gerenciamento de estado usando **Redux**
-- Conexão entre app, serviços e banco de dados para sustentação das funcionalidades
-- Participação na evolução de fluxos, telas e componentes reutilizáveis
-- Apoio na manutenção e melhoria contínua dos aplicativos
+- Mobile development with **React Native** for apps used by major sports clubs and brands, including **Palmeiras, Grêmio, Cruzeiro, Orlando City, and Chicago Fire**
+- Front-end development focused on usability, navigation, and performance
+- Integration with **Firebase** and **Salesforce**
+- State management using **Redux**
+- Development and maintenance of reusable components and application flows
 
-Tecnologias: `React Native` `React` `JavaScript` `Redux` `Firebase` `Salesforce` `HTML` `CSS` `Figma` `Git` `GitHub`
+**Technologies:** `React Native` `React` `JavaScript` `Redux` `Firebase` `Salesforce` `HTML` `CSS` `Figma` `Git` `GitHub`
 
 <br clear="left"/>
 
 ---
-
-## 🏅 Certifications
-
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEFqUruVBC3sQ/company-logo_100_100/B4DZXKHEQtGkAQ-/0/1742852606006?e=1780531200&v=beta&t=f7nyAiRptRFpyrW_TjK1lA-cvGD2rEUCnf1v8dI1rbo"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1779825600&v=beta&t=HJj9PnclER3m4FUjuk03p0cGjEvCanjQ4kFokxm3PxA)
-
-### **CPO I – Certified Product Owner**
-**Imagine Sky**  
-📅 Issued in March 2025  
-**Skills:** Scrum, Project Management, Product Ownership  
-🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQFVns_9gQ7Rvw/profile-treasury-image-shrink_800_800/B4DZXeYpQPGkAc-/0/1743192757864?e=1779825600&v=beta&t=HJj9PnclER3m4FUjuk03p0cGjEvCanjQ4kFokxm3PxA)
-
-
----
-
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/C4E0BAQG9_uP8f-kpiw/company-logo_100_100/company-logo_100_100/0/1631356592679?e=1780531200&v=beta&t=_zE3utIJSaxGItRGd9MJzmU4g9MkuMLHn9IFY4R_0eM"/>](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716660815?e=1779825600&v=beta&t=SJjW_J3XgNho_9WtG1_b6zpSx7i7cAgC-VvezfqjfgY)
-
-### **Scrum Fundamentals Certified**
-**Scrum Study**  
-📅 Issued in November 2023  
-**Skills:** Scrum, Agile Methodologies, Waterfall Methodologies  
-🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQFH0KE3uZO0rQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716660815?e=1779825600&v=beta&t=SJjW_J3XgNho_9WtG1_b6zpSx7i7cAgC-VvezfqjfgY)
-
-
----
-
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1780531200&v=beta&t=ZTUlk7ffYBYAvciSFy6nuttOytxkR6r-i0mARooSXqg"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716292094?e=1779825600&v=beta&t=i6oC8U5exOUaQgn_wa7-TJaKs-yJbCh5U2bIyIh1Evc)
-
-### **DevOps & Agile Culture**
-**FIAP**  
-📅 Issued in June 2023  
-**Skills:** DevOps, Agile  
-🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQGYcZgJPKW0Gg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1718716292094?e=1779825600&v=beta&t=i6oC8U5exOUaQgn_wa7-TJaKs-yJbCh5U2bIyIh1Evc)
-
-
----
-
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQGWrQt1XOEiPw/company-logo_100_100/B4DZbGkZaBGwAQ-/0/1747088152588/fiap_logo?e=1780531200&v=beta&t=ZTUlk7ffYBYAvciSFy6nuttOytxkR6r-i0mARooSXqg"/>](https://media.licdn.com/dms/image/v2/D4D2DAQF4oiccTM8qhA/profile-treasury-image-shrink_800_800/B4DZ26nZ_pG4Ac-/0/1776952386271?e=1779825600&v=beta&t=38E0Vh6B3M3INke8ZZgTtVt8kSXOXurIonhUok5-TJY)
-
-### **Software Engineering**
-**FIAP**  
-📅 Issued in August 2026  
-**Skills:** Software Engineering, System Design, Software Architecture  
-🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQF4oiccTM8qhA/profile-treasury-image-shrink_800_800/B4DZ26nZ_pG4Ac-/0/1776952386271?e=1779825600&v=beta&t=38E0Vh6B3M3INke8ZZgTtVt8kSXOXurIonhUok5-TJY)
-
-
----
-
-[<img align="left" height="90px" width="90px" src="https://media.licdn.com/dms/image/v2/D4D0BAQEkiQ8pB1hYow/company-logo_100_100/B4DZcSgOD1HMAU-/0/1748362125886/cisco_networking_academy1_logo?e=1780531200&v=beta&t=NQpP5VrLtT2wNM5ziK7jr8-xvVBv_-XVR4uNyH07BIg"/>](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1718715644908?e=1779926400&v=beta&t=-jL8xfqJsQ4a85cWPvQ39s1fOsjmlbgl1pu_s0te8PI)
-
-### **Networking Essentials**
-**Cisco Networking Academy**  
-📅 Issued in June 2024  
-**Skills:** Computer Networking, Network Administration  
-🔗 [View Certificate](https://media.licdn.com/dms/image/v2/D4D2DAQGt-prMasbtGQ/profile-treasury-document-images_1280/profile-treasury-document-images_1280/1/1718715644908?e=1779926400&v=beta&t=-jL8xfqJsQ4a85cWPvQ39s1fOsjmlbgl1pu_s0te8PI)
-
----
-
-## 📈 Destaques Profissionais
-
-- Forte atuação em **mensageria corporativa e operação CPaaS**
-- Experiência prática com **SMPP, Google RCS, onboarding e suporte técnico**
-- Criação de soluções internas para **controle operacional e visibilidade de dados**
-- Perfil voltado para **escala, performance, automação e eficiência**
-- Capacidade de conectar **tecnologia, operação e negócio**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=oyangferreira&theme=midnight-purple&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oyangferreira&theme=react-dark&hide_border=true&area=true&color=A855F7&line=9333EA&point=C084FC&area_color=7E22CE" />
-</p>
-
----
-
-## 🌐 Conecte-se comigo
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yangsarmentoferreira/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yang%20Sarmento%20Ferreira-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:yang.ferreira@hotmail.com">
-    <img src="https://img.shields.io/badge/E--mail-yang.ferreira@hotmail.com-A21CAF?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1065,100:A21CAF&height=120&section=footer"/>
-</p>
