@@ -250,18 +250,6 @@ My focus is on using technology to generate **control, scalability, efficiency, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=oyangferreira&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true"
-    alt="Yang's GitHub Stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyangferreira&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
-<p align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=oyangferreira&theme=midnight-purple&hide_border=true"/>
 </p>
 
